@@ -1,11 +1,11 @@
 [gd_scene load_steps=14 format=3 uid="uid://b7qrym8i4lcfa"]
 
-[ext_resource type="PackedScene" path="res://assets/scenes/Player.tscn" id="1"]
-[ext_resource type="PackedScene" path="res://assets/scenes/Cube.tscn" id="2"]
-[ext_resource type="PackedScene" path="res://assets/scenes/Button.tscn" id="3"]
-[ext_resource type="PackedScene" path="res://assets/scenes/WireLine.tscn" id="4"]
-[ext_resource type="PackedScene" path="res://assets/scenes/Gate.tscn" id="5"]
-[ext_resource type="PackedScene" path="res://assets/scenes/PortalPair.tscn" id="6"]
+[ext_resource type="PackedScene" uid="uid://b4llmcb5fnasw" path="res://assets/scenes/Player.tscn" id="1"]
+[ext_resource type="PackedScene" uid="uid://1v6fsgygngyg" path="res://assets/scenes/Cube.tscn" id="2"]
+[ext_resource type="PackedScene" uid="uid://brbkpas0xpc2" path="res://assets/scenes/Button.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://ct6x2gl2kvt0x" path="res://assets/scenes/WireLine.tscn" id="4"]
+[ext_resource type="PackedScene" uid="uid://b7y6esvm1v7so" path="res://assets/scenes/Gate.tscn" id="5"]
+[ext_resource type="PackedScene" uid="uid://cch6b3rdl6t7p" path="res://assets/scenes/PortalPair.tscn" id="6"]
 
 [sub_resource type="BoxMesh" id="1"]
 

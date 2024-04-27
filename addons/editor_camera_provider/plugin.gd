@@ -16,7 +16,7 @@ func handles(obj: Object) -> bool:
 
 
 # warning-ignore:unused_argument
-func _forward_3d_gui_input(camera: Camera3D, event: InputEvent) -> bool:
+func _forward_3d_gui_input(camera: Camera3D, event: InputEvent) -> int:
 	_camera = camera
 	return false
 
