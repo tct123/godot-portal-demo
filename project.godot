@@ -17,7 +17,7 @@ config/icon="res://assets/icon.png"
 
 [autoload]
 
-EditorCameraProvider="res://addons/editor_camera_provider/plugin.gd"
+EditorCameraProvider="*res://addons/editor_camera_provider/plugin.gd"
 
 [display]
 

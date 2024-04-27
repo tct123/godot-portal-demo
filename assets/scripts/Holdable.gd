@@ -57,7 +57,7 @@ func _integrate_forces(state: PhysicsDirectBodyState3D) -> void:
 	var pos_next := pos_cur.interpolate_with(pos_target, interp)
 
 	# Calculate amount cube needs to rotate
-	var rot := (pos_next * pos_cur.inverse()).basis \
+	var rot := (pos_next * pos_cur.inverse()).basis \ 
 		super.get_rotation_quaternion().get_euler()
 
 	# Actually move the object
